@@ -9,7 +9,7 @@
   ],
   "success_url": "https://youtu.be/p4Z9ZN1lZUk",
   "website": "https://youtu.be/p4Z9ZN1lZUk",
-  "repository": "https://github.com/MRK-YT/MT-AutoCaption",
+  "repository": "https://github.com/AMSLINKS/MT-AutoCaption",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
